@@ -22,8 +22,8 @@ title: Şükrü Eren Gökırmak
 email: sukruerengokirmak@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The very minimal portfolio site of Şükrü Eren Gökırmak.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://erengokirmak.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "erengokirmak-blog" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: sukruerengokirmak
 github_username: ErenGokirmak
 
